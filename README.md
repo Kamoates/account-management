@@ -1,3 +1,5 @@
 #Account Management System v1.0
 
-follow me on Twitter @ejzilba
+##NOTE: Work only on Python v3.8.x up
+
+Follow me on Twitter @ejzilba
